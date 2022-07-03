@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xianjin Fu, Ph.D"
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   bio              : "Senior engineer focusing on static program analysis & symbolic execution"
   location         : "PR China"
   employer         : 
