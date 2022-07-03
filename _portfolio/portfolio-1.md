@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MPI-SV"
+excerpt: "[MPI-SV](https://mpi-sv.github.io/) is an automatic symbolic verifier for verifying MPI C programs."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Message Passing Interface (MPI) is the current de facto standard for developing the parallel applications in high-performance computing. However, developing MPI programs is challenging due to the non-determinism caused by parallel execution and complex programming features such as non-deterministic communications and asynchrony.
+
+MPI-SV is an automatic symbolic verifier for verifying MPI C programs. MPI-SV supports the verification of non-blocking MPI programs. MPI-SV can verify the properties in Linear Temporal Logic (LTL), see [the paper](https://xianjinfu.github.io/publication/2020-10-01-mpisv) for more details.
+
