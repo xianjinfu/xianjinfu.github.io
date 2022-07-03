@@ -1,7 +1,6 @@
 ---
-title: "[MPI-SV](https://mpi-sv.github.io/)"
-permalink: /portfolio/portfolio-1
-excerpt: "MPI-SV is an automatic symbolic verifier for verifying MPI C programs."
+title: "MPI-SV"
+excerpt: "[MPI-SV](https://mpi-sv.github.io/) is an automatic symbolic verifier for verifying MPI C programs."
 collection: portfolio
 ---
 
