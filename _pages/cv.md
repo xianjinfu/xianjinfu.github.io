@@ -19,7 +19,7 @@ Work experience
 ======
 * Spring 2021: Senior Engineer
   * Ant Group
-  * Duties included: Static analyzer development
+  * Duties included: Static analyzer tool programming.
 
  
 Publications
